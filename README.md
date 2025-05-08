@@ -6,7 +6,7 @@
 - ⚡ Tive leucemia em 2021, fato esse, que mudou o meu jeito de encarar a vida, 
 desenvolvendo ainda mais minha capacidade de foco e adaptação em atividades que julgo 
 importantes, além de desenvolver ainda mais a empatia e paciência com os demais.
-- 😄 Ele/Dele
+
 ## 💻 Atualmente aprendendo
 
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
