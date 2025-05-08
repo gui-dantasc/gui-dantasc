@@ -1,14 +1,17 @@
 ## Olá, meu nome é Guilherme Dantas!
 - :computer: Meus maiores interesses estão na área de tecnologia, principalmente na área de segurança cibernética.
 - :e-mail: Meu e-mail de contato profissional é: guilherme.aldantasc@gmail.com
-- :loudspeaker: Atualmente estou a procura de estágios para iniciantes na área de cibersegurança.
+- 👀 Atualmente estou a procura de estágios para iniciantes na área de cibersegurança.
 - :clipboard: Cursando Engenharia de Software e realizando diversas certificações profissionais em cibersegurança.
 - ⚡ Tive leucemia em 2021, fato esse, que mudou o meu jeito de encarar a vida, 
 desenvolvendo ainda mais minha capacidade de foco e adaptação em atividades que julgo 
 importantes, além de desenvolver ainda mais a empatia e paciência com os demais.
 - 😄 Ele/Dele
+## 💻 Atualmente aprendendo
 
-##
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+
+## 📣 Redes
 <!-- Badges: LinkedIn • Credly • E-mail • Instagram -->
 <a href="https://www.linkedin.com/in/guialdantasc/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,6 +29,4 @@ importantes, além de desenvolver ainda mais a empatia e paciência com os demai
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-## 💻 Atualmente aprendendo
 
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
