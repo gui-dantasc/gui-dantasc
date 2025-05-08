@@ -7,6 +7,7 @@
 desenvolvendo ainda mais minha capacidade de foco e adaptação em atividades que julgo 
 importantes, além de desenvolver ainda mais a empatia e paciência com os demais.
 - 😄 Ele/Dele
+
 ##
 <p align="center">
   <!-- LinkedIn -->
@@ -28,4 +29,13 @@ importantes, além de desenvolver ainda mais a empatia e paciência com os demai
   <a href="https://www.instagram.com/guidntsc/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+</p>
+
+##
+<p align="center">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+
+  <!-- SQL (usando o logo do MySQL como referência) -->
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
