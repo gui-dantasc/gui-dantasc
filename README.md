@@ -9,13 +9,16 @@ importantes, além de desenvolver ainda mais a empatia e paciência com os demai
 - 😄 Ele/Dele
 ##
 <p align="center">
-  <!-- E-mail -->
-  <a href="mailto:gui.aldantasc@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Enviar e-mail"
-    >
+  <!-- Badge de e-mail (abre Gmail) -->
+  <a href="https://mail.google.com/mail/?view=cm&to=gui.aldantasc@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail">
   </a>
+
+  <!-- Badge do LinkedIn -->
+  <a href="https://www.linkedin.com/in/guialdantasc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visitar meu LinkedIn">
+  </a>
+</p>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/guialdantasc/" target="_blank" rel="noopener noreferrer">
