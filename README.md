@@ -1,4 +1,4 @@
-## Olá, meu nome é Guilherme Dantas.
+## Olá, meu nome é Guilherme Dantas!
 - :computer: Meus maiores interesses estão na área de tecnologia, principalmente na área de segurança cibernética.
 - :e-mail: Meu e-mail de contato profissional é: guilherme.aldantasc@gmail.com
 - :loudspeaker: Atualmente estou a procura de estágios para iniciantes na área de cibersegurança.
