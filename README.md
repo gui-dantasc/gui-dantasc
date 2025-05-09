@@ -29,7 +29,13 @@ importantes, além de desenvolver ainda mais a empatia e paciência com os demai
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-dantasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-dantasc&show_icons=true)
+
+
 
